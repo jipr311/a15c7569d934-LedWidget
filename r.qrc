@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/x">
+        <file>icon/rounded_green.png</file>
+        <file>icon/rounded_grey.png</file>
+    </qresource>
+</RCC>
